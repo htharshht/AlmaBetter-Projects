@@ -1,4 +1,4 @@
-# AlmaBetter-Projects
+# EDA on Hotel Boonking Analysis
 This EDA project on Hotel Booking Analysis investigates cancellations, and their underlying patterns; and suggests measures that can be implemented to reduce cancellations and secure revenue1:
 
 The project covers booking information for a city hotel and a resort hotel including information such as when the booking was made, length of stay, the number of adults, children. The project went through the basic idea of the EDA and visualization process.
